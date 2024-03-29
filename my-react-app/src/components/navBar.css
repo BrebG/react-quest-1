@@ -1,4 +1,7 @@
-.navbar {
-    height: 5rem;
-    background-color: aquamarine;
+button {
+    height: 3rem;
+    width: 15rem;
+    background-color: rgba(89, 91, 90, 0.411);
+    color: white;
+
 }
